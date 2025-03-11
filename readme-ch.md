@@ -71,3 +71,6 @@ python b2b.py prepress   # 使用prepress质量（较高品质）
 ```
 
 脚本会自动处理`books`目录下的所有PDF文件，并将压缩后的版本保存到`eBooks`目录，同时保持原始文件名不变。完成后，你会看到处理了多少文件以及总共节省了多少空间的统计信息。
+
+
+python adb2b.py ocrmypdf
